@@ -1,0 +1,37 @@
+.nav-cnt{
+    background-size:cover;
+    height:100px;
+    width:100%;
+}
+
+.header-cnt{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px;
+    background-color:#08bc90;
+}
+
+.website-logo{
+    width:100px;
+    height:70px;
+}
+
+.nav-items-cnt{
+    display:flex;
+    justify-content:space-between;
+    list-style-type:none;
+}
+
+.nav-item{
+   list-style-type:none;
+   margin-right:5px;
+   text-decoration:none;
+}
+.link-item{
+    font-size:20px;
+    font-family:roboto;
+    font-weight:400;
+    color:#ffffff;
+}
